@@ -1,0 +1,19 @@
+*{
+    background-color: brown;
+}
+input{
+    background-color: cyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form {
+    color: red;
+    background-color: blue;
+    font-family: monospace;
+    
+}
+button{
+    color: blueviolet;
+    background-color: aquamarine;
+    font-family: monospace;
+}
